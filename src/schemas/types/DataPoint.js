@@ -31,6 +31,11 @@ exports.createDataPoint = ({ graphql = require('graphql') }) => {
 				description: 'Number of stocks traded',
 				resolve: data => data.volume
 			},
+			owners: {
+				type: GraphQLInt,
+				description: 'Number of owners of the stock on Avanza.',
+				resolve: data => data.owners
+			},
 			date: {
 				type: GraphQLString,
 				description: 'Date of the data',

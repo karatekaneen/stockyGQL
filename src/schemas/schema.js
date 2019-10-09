@@ -11,8 +11,8 @@ exports.createSchema = ({
 			description: 'Basic stock query.',
 
 			fields: () => ({
-				StockList: Stock.createStockList({ StockType }),
-				SingleStock: Stock.createSingleStock({ StockType })
+				stocks: Stock.createStockList({ StockType }),
+				stock: Stock.createSingleStock({ StockType })
 			})
 		})
 	})

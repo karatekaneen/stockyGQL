@@ -1,0 +1,2310 @@
+{
+	"data": {
+		"stocks": [
+			{
+				"name": "Atlas Copco A",
+				"id": 5234,
+				"list": "Large Cap Stockholm",
+				"linkName": "atlas-copco-a"
+			},
+			{
+				"name": "Atlas Copco B",
+				"id": 5235,
+				"list": "Large Cap Stockholm",
+				"linkName": "atlas-copco-b"
+			},
+			{
+				"name": "Autoliv SDB",
+				"id": 5236,
+				"list": "Large Cap Stockholm",
+				"linkName": "autoliv-sdb"
+			},
+			{
+				"name": "Electrolux A",
+				"id": 5237,
+				"list": "Large Cap Stockholm",
+				"linkName": "electrolux-a"
+			},
+			{
+				"name": "Electrolux B",
+				"id": 5238,
+				"list": "Large Cap Stockholm",
+				"linkName": "electrolux-b"
+			},
+			{
+				"name": "Ericsson A",
+				"id": 5239,
+				"list": "Large Cap Stockholm",
+				"linkName": "ericsson-a"
+			},
+			{
+				"name": "Ericsson B",
+				"id": 5240,
+				"list": "Large Cap Stockholm",
+				"linkName": "ericsson-b"
+			},
+			{
+				"name": "Swedbank A",
+				"id": 5241,
+				"list": "Large Cap Stockholm",
+				"linkName": "swedbank-a"
+			},
+			{
+				"name": "Industrivärden A",
+				"id": 5244,
+				"list": "Large Cap Stockholm",
+				"linkName": "industrivarden-a"
+			},
+			{
+				"name": "Industrivärden C",
+				"id": 5245,
+				"list": "Large Cap Stockholm",
+				"linkName": "industrivarden-c"
+			},
+			{
+				"name": "Investor A",
+				"id": 5246,
+				"list": "Large Cap Stockholm",
+				"linkName": "investor-a"
+			},
+			{
+				"name": "Investor B",
+				"id": 5247,
+				"list": "Large Cap Stockholm",
+				"linkName": "investor-b"
+			},
+			{
+				"name": "Nordea Bank Abp",
+				"id": 5249,
+				"list": "Large Cap Stockholm",
+				"linkName": "nordea-bank-abp"
+			},
+			{
+				"name": "Holmen A",
+				"id": 5250,
+				"list": "Large Cap Stockholm",
+				"linkName": "holmen-a"
+			},
+			{
+				"name": "Holmen B",
+				"id": 5251,
+				"list": "Large Cap Stockholm",
+				"linkName": "holmen-b"
+			},
+			{
+				"name": "SEB A",
+				"id": 5255,
+				"list": "Large Cap Stockholm",
+				"linkName": "seb-a"
+			},
+			{
+				"name": "SEB C",
+				"id": 5256,
+				"list": "Large Cap Stockholm",
+				"linkName": "seb-c"
+			},
+			{
+				"name": "Skanska B",
+				"id": 5257,
+				"list": "Large Cap Stockholm",
+				"linkName": "skanska-b"
+			},
+			{
+				"name": "SKF A",
+				"id": 5258,
+				"list": "Large Cap Stockholm",
+				"linkName": "skf-a"
+			},
+			{
+				"name": "SKF B",
+				"id": 5259,
+				"list": "Large Cap Stockholm",
+				"linkName": "skf-b"
+			},
+			{
+				"name": "SSAB A",
+				"id": 5260,
+				"list": "Large Cap Stockholm",
+				"linkName": "ssab-a"
+			},
+			{
+				"name": "SSAB B",
+				"id": 5261,
+				"list": "Large Cap Stockholm",
+				"linkName": "ssab-b"
+			},
+			{
+				"name": "SCA A",
+				"id": 5262,
+				"list": "Large Cap Stockholm",
+				"linkName": "sca-a"
+			},
+			{
+				"name": "SCA B",
+				"id": 5263,
+				"list": "Large Cap Stockholm",
+				"linkName": "sca-b"
+			},
+			{
+				"name": "Handelsbanken A",
+				"id": 5264,
+				"list": "Large Cap Stockholm",
+				"linkName": "handelsbanken-a"
+			},
+			{
+				"name": "Handelsbanken B",
+				"id": 5265,
+				"list": "Large Cap Stockholm",
+				"linkName": "handelsbanken-b"
+			},
+			{
+				"name": "Swedish Match",
+				"id": 5266,
+				"list": "Large Cap Stockholm",
+				"linkName": "swedish-match"
+			},
+			{
+				"name": "Trelleborg B",
+				"id": 5267,
+				"list": "Large Cap Stockholm",
+				"linkName": "trelleborg-b"
+			},
+			{
+				"name": "Volvo A",
+				"id": 5268,
+				"list": "Large Cap Stockholm",
+				"linkName": "volvo-a"
+			},
+			{
+				"name": "Volvo B",
+				"id": 5269,
+				"list": "Large Cap Stockholm",
+				"linkName": "volvo-b"
+			},
+			{
+				"name": "Securitas B",
+				"id": 5270,
+				"list": "Large Cap Stockholm",
+				"linkName": "securitas-b"
+			},
+			{
+				"name": "ASSA ABLOY B",
+				"id": 5271,
+				"list": "Large Cap Stockholm",
+				"linkName": "assa-abloy-b"
+			},
+			{
+				"name": "Beijer Ref B",
+				"id": 5274,
+				"list": "Large Cap Stockholm",
+				"linkName": "beijer-ref-b"
+			},
+			{
+				"name": "Bergman & Beving B",
+				"id": 5275,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bergman---beving-b"
+			},
+			{
+				"name": "Bilia A",
+				"id": 5276,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bilia-a"
+			},
+			{
+				"name": "Bure Equity",
+				"id": 5277,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bure-equity"
+			},
+			{
+				"name": "Consilium B",
+				"id": 5279,
+				"list": "Small Cap Stockholm",
+				"linkName": "consilium-b"
+			},
+			{
+				"name": "Elekta B",
+				"id": 5280,
+				"list": "Large Cap Stockholm",
+				"linkName": "elekta-b"
+			},
+			{
+				"name": "Getinge B",
+				"id": 5282,
+				"list": "Large Cap Stockholm",
+				"linkName": "getinge-b"
+			},
+			{
+				"name": "Gunnebo",
+				"id": 5284,
+				"list": "Mid Cap Stockholm",
+				"linkName": "gunnebo"
+			},
+			{
+				"name": "Haldex",
+				"id": 5285,
+				"list": "Mid Cap Stockholm",
+				"linkName": "haldex"
+			},
+			{
+				"name": "Hexagon B",
+				"id": 5286,
+				"list": "Large Cap Stockholm",
+				"linkName": "hexagon-b"
+			},
+			{
+				"name": "Hufvudstaden A",
+				"id": 5287,
+				"list": "Large Cap Stockholm",
+				"linkName": "hufvudstaden-a"
+			},
+			{
+				"name": "Hufvudstaden C",
+				"id": 5288,
+				"list": "Large Cap Stockholm",
+				"linkName": "hufvudstaden-c"
+			},
+			{
+				"name": "Midway A",
+				"id": 5291,
+				"list": "Small Cap Stockholm",
+				"linkName": "midway-a"
+			},
+			{
+				"name": "Midway B",
+				"id": 5292,
+				"list": "Small Cap Stockholm",
+				"linkName": "midway-b"
+			},
+			{
+				"name": "NCC A",
+				"id": 5293,
+				"list": "Large Cap Stockholm",
+				"linkName": "ncc-a"
+			},
+			{
+				"name": "NCC B",
+				"id": 5294,
+				"list": "Large Cap Stockholm",
+				"linkName": "ncc-b"
+			},
+			{
+				"name": "Fabege",
+				"id": 5300,
+				"list": "Large Cap Stockholm",
+				"linkName": "fabege"
+			},
+			{
+				"name": "ÅF Pöyry B",
+				"id": 5301,
+				"list": "Large Cap Stockholm",
+				"linkName": "af-poyry-b"
+			},
+			{
+				"name": "Öresund",
+				"id": 5302,
+				"list": "Mid Cap Stockholm",
+				"linkName": "oresund"
+			},
+			{
+				"name": "Beijer Alma B",
+				"id": 5303,
+				"list": "Mid Cap Stockholm",
+				"linkName": "beijer-alma-b"
+			},
+			{
+				"name": "Active Biotech",
+				"id": 5304,
+				"list": "Small Cap Stockholm",
+				"linkName": "active-biotech"
+			},
+			{
+				"name": "Bergs Timber B",
+				"id": 5306,
+				"list": "Small Cap Stockholm",
+				"linkName": "bergs-timber-b"
+			},
+			{
+				"name": "Bong",
+				"id": 5307,
+				"list": "Small Cap Stockholm",
+				"linkName": "bong"
+			},
+			{
+				"name": "DORO",
+				"id": 5310,
+				"list": "Small Cap Stockholm",
+				"linkName": "doro"
+			},
+			{
+				"name": "Elanders B",
+				"id": 5311,
+				"list": "Mid Cap Stockholm",
+				"linkName": "elanders-b"
+			},
+			{
+				"name": "Fagerhult",
+				"id": 5314,
+				"list": "Mid Cap Stockholm",
+				"linkName": "fagerhult"
+			},
+			{
+				"name": "KABE Group B",
+				"id": 5319,
+				"list": "Mid Cap Stockholm",
+				"linkName": "kabe-group-b"
+			},
+			{
+				"name": "Latour B",
+				"id": 5321,
+				"list": "Large Cap Stockholm",
+				"linkName": "latour-b"
+			},
+			{
+				"name": "New Wave B",
+				"id": 5324,
+				"list": "Mid Cap Stockholm",
+				"linkName": "new-wave-b"
+			},
+			{
+				"name": "NIBE Industrier B",
+				"id": 5325,
+				"list": "Large Cap Stockholm",
+				"linkName": "nibe-industrier-b"
+			},
+			{
+				"name": "Nolato B",
+				"id": 5327,
+				"list": "Large Cap Stockholm",
+				"linkName": "nolato-b"
+			},
+			{
+				"name": "OEM International B",
+				"id": 5329,
+				"list": "Mid Cap Stockholm",
+				"linkName": "oem-international-b"
+			},
+			{
+				"name": "Peab B",
+				"id": 5330,
+				"list": "Large Cap Stockholm",
+				"linkName": "peab-b"
+			},
+			{
+				"name": "Profilgruppen B",
+				"id": 5331,
+				"list": "Small Cap Stockholm",
+				"linkName": "profilgruppen-b"
+			},
+			{
+				"name": "Rottneros",
+				"id": 5332,
+				"list": "Small Cap Stockholm",
+				"linkName": "rottneros"
+			},
+			{
+				"name": "Svedbergs B",
+				"id": 5335,
+				"list": "Small Cap Stockholm",
+				"linkName": "svedbergs-b"
+			},
+			{
+				"name": "Svolder A",
+				"id": 5336,
+				"list": "Mid Cap Stockholm",
+				"linkName": "svolder-a"
+			},
+			{
+				"name": "Svolder B",
+				"id": 5337,
+				"list": "Mid Cap Stockholm",
+				"linkName": "svolder-b"
+			},
+			{
+				"name": "SkiStar B",
+				"id": 5339,
+				"list": "Mid Cap Stockholm",
+				"linkName": "skistar-b"
+			},
+			{
+				"name": "ICTA",
+				"id": 5341,
+				"list": "Small Cap Stockholm",
+				"linkName": "icta"
+			},
+			{
+				"name": "VBG GROUP B",
+				"id": 5342,
+				"list": "Mid Cap Stockholm",
+				"linkName": "vbg-group-b"
+			},
+			{
+				"name": "Wallenstam B",
+				"id": 5344,
+				"list": "Large Cap Stockholm",
+				"linkName": "wallenstam-b"
+			},
+			{
+				"name": "Venue Retail Group B",
+				"id": 5345,
+				"list": "Small Cap Stockholm",
+				"linkName": "venue-retail-group-b"
+			},
+			{
+				"name": "Elos Medtech B",
+				"id": 5346,
+				"list": "Small Cap Stockholm",
+				"linkName": "elos-medtech-b"
+			},
+			{
+				"name": "BioGaia B",
+				"id": 5349,
+				"list": "Mid Cap Stockholm",
+				"linkName": "biogaia-b"
+			},
+			{
+				"name": "Viking Supply Ships B",
+				"id": 5352,
+				"list": "Small Cap Stockholm",
+				"linkName": "viking-supply-ships-b"
+			},
+			{
+				"name": "Castellum",
+				"id": 5353,
+				"list": "Large Cap Stockholm",
+				"linkName": "castellum"
+			},
+			{
+				"name": "Concordia Maritime B",
+				"id": 5356,
+				"list": "Small Cap Stockholm",
+				"linkName": "concordia-maritime-b"
+			},
+			{
+				"name": "Fast Partner",
+				"id": 5357,
+				"list": "Mid Cap Stockholm",
+				"linkName": "fast-partner"
+			},
+			{
+				"name": "Avanza Bank Holding",
+				"id": 5361,
+				"list": "Large Cap Stockholm",
+				"linkName": "avanza-bank-holding"
+			},
+			{
+				"name": "Havsfrun Investment B",
+				"id": 5362,
+				"list": "Small Cap Stockholm",
+				"linkName": "havsfrun-investment-b"
+			},
+			{
+				"name": "HEBA B",
+				"id": 5363,
+				"list": "Mid Cap Stockholm",
+				"linkName": "heba-b"
+			},
+			{
+				"name": "Hennes & Mauritz B",
+				"id": 5364,
+				"list": "Large Cap Stockholm",
+				"linkName": "hennes---mauritz-b"
+			},
+			{
+				"name": "Kinnevik A",
+				"id": 5368,
+				"list": "Large Cap Stockholm",
+				"linkName": "kinnevik-a"
+			},
+			{
+				"name": "Kinnevik B",
+				"id": 5369,
+				"list": "Large Cap Stockholm",
+				"linkName": "kinnevik-b"
+			},
+			{
+				"name": "Stockwik Förvaltning",
+				"id": 5373,
+				"list": "Small Cap Stockholm",
+				"linkName": "stockwik-forvaltning"
+			},
+			{
+				"name": "Atrium Ljungberg B",
+				"id": 5374,
+				"list": "Large Cap Stockholm",
+				"linkName": "atrium-ljungberg-b"
+			},
+			{
+				"name": "Lundbergföretagen B",
+				"id": 5375,
+				"list": "Large Cap Stockholm",
+				"linkName": "lundbergforetagen-b"
+			},
+			{
+				"name": "Medivir B",
+				"id": 5380,
+				"list": "Small Cap Stockholm",
+				"linkName": "medivir-b"
+			},
+			{
+				"name": "Empir Group B",
+				"id": 5382,
+				"list": "Small Cap Stockholm",
+				"linkName": "empir-group-b"
+			},
+			{
+				"name": "Tele2 A",
+				"id": 5385,
+				"list": "Large Cap Stockholm",
+				"linkName": "tele2-a"
+			},
+			{
+				"name": "Tele2 B",
+				"id": 5386,
+				"list": "Large Cap Stockholm",
+				"linkName": "tele2-b"
+			},
+			{
+				"name": "Ortivus A",
+				"id": 5389,
+				"list": "Small Cap Stockholm",
+				"linkName": "ortivus-a"
+			},
+			{
+				"name": "Ortivus B",
+				"id": 5390,
+				"list": "Small Cap Stockholm",
+				"linkName": "ortivus-b"
+			},
+			{
+				"name": "Prevas B",
+				"id": 5394,
+				"list": "Small Cap Stockholm",
+				"linkName": "prevas-b"
+			},
+			{
+				"name": "Pricer B",
+				"id": 5395,
+				"list": "Small Cap Stockholm",
+				"linkName": "pricer-b"
+			},
+			{
+				"name": "Ratos A",
+				"id": 5396,
+				"list": "Large Cap Stockholm",
+				"linkName": "ratos-a"
+			},
+			{
+				"name": "Ratos B",
+				"id": 5397,
+				"list": "Large Cap Stockholm",
+				"linkName": "ratos-b"
+			},
+			{
+				"name": "Lammhults Design Group B",
+				"id": 5399,
+				"list": "Small Cap Stockholm",
+				"linkName": "lammhults-design-group-b"
+			},
+			{
+				"name": "SAAB B",
+				"id": 5401,
+				"list": "Large Cap Stockholm",
+				"linkName": "saab-b"
+			},
+			{
+				"name": "Semcon",
+				"id": 5403,
+				"list": "Small Cap Stockholm",
+				"linkName": "semcon"
+			},
+			{
+				"name": "SinterCast",
+				"id": 5406,
+				"list": "Small Cap Stockholm",
+				"linkName": "sintercast"
+			},
+			{
+				"name": "SWECO A",
+				"id": 5408,
+				"list": "Large Cap Stockholm",
+				"linkName": "sweco-a"
+			},
+			{
+				"name": "SWECO B",
+				"id": 5409,
+				"list": "Large Cap Stockholm",
+				"linkName": "sweco-b"
+			},
+			{
+				"name": "RaySearch Laboratories B",
+				"id": 5410,
+				"list": "Mid Cap Stockholm",
+				"linkName": "raysearch-laboratories-b"
+			},
+			{
+				"name": "XANO Industri B",
+				"id": 5415,
+				"list": "Mid Cap Stockholm",
+				"linkName": "xano-industri-b"
+			},
+			{
+				"name": "Enea",
+				"id": 5416,
+				"list": "Mid Cap Stockholm",
+				"linkName": "enea"
+			},
+			{
+				"name": "Softronic B",
+				"id": 5418,
+				"list": "Small Cap Stockholm",
+				"linkName": "softronic-b"
+			},
+			{
+				"name": "Stora Enso A",
+				"id": 5421,
+				"list": "Large Cap Stockholm",
+				"linkName": "stora-enso-a"
+			},
+			{
+				"name": "Stora Enso R",
+				"id": 5422,
+				"list": "Large Cap Stockholm",
+				"linkName": "stora-enso-r"
+			},
+			{
+				"name": "Trention",
+				"id": 5423,
+				"list": "Small Cap Stockholm",
+				"linkName": "trention"
+			},
+			{
+				"name": "I.A.R Systems Group",
+				"id": 5424,
+				"list": "Mid Cap Stockholm",
+				"linkName": "i-a-r-systems-group"
+			},
+			{
+				"name": "CTT Systems",
+				"id": 5425,
+				"list": "Small Cap Stockholm",
+				"linkName": "ctt-systems"
+			},
+			{
+				"name": "SECTRA B",
+				"id": 5426,
+				"list": "Mid Cap Stockholm",
+				"linkName": "sectra-b"
+			},
+			{
+				"name": "Knowit",
+				"id": 5428,
+				"list": "Mid Cap Stockholm",
+				"linkName": "knowit"
+			},
+			{
+				"name": "Malmbergs Elektriska B",
+				"id": 5429,
+				"list": "Small Cap Stockholm",
+				"linkName": "malmbergs-elektriska-b"
+			},
+			{
+				"name": "AstraZeneca",
+				"id": 5431,
+				"list": "Large Cap Stockholm",
+				"linkName": "astrazeneca"
+			},
+			{
+				"name": "HiQ International",
+				"id": 5433,
+				"list": "Mid Cap Stockholm",
+				"linkName": "hiq-international"
+			},
+			{
+				"name": "Kungsleden",
+				"id": 5434,
+				"list": "Large Cap Stockholm",
+				"linkName": "kungsleden"
+			},
+			{
+				"name": "Image Systems",
+				"id": 5436,
+				"list": "Small Cap Stockholm",
+				"linkName": "image-systems"
+			},
+			{
+				"name": "Modern Times Group A",
+				"id": 5437,
+				"list": "Large Cap Stockholm",
+				"linkName": "modern-times-group-a"
+			},
+			{
+				"name": "Modern Times Group B",
+				"id": 5438,
+				"list": "Large Cap Stockholm",
+				"linkName": "modern-times-group-b"
+			},
+			{
+				"name": "Net Insight B",
+				"id": 5440,
+				"list": "Mid Cap Stockholm",
+				"linkName": "net-insight-b"
+			},
+			{
+				"name": "Addnode Group B",
+				"id": 5442,
+				"list": "Mid Cap Stockholm",
+				"linkName": "addnode-group-b"
+			},
+			{
+				"name": "Midsona A",
+				"id": 5443,
+				"list": "Mid Cap Stockholm",
+				"linkName": "midsona-a"
+			},
+			{
+				"name": "Midsona B",
+				"id": 5444,
+				"list": "Mid Cap Stockholm",
+				"linkName": "midsona-b"
+			},
+			{
+				"name": "Karo Pharma",
+				"id": 5446,
+				"list": "Mid Cap Stockholm",
+				"linkName": "karo-pharma"
+			},
+			{
+				"name": "ABB Ltd",
+				"id": 5447,
+				"list": "Large Cap Stockholm",
+				"linkName": "abb-ltd"
+			},
+			{
+				"name": "Poolia B",
+				"id": 5450,
+				"list": "Small Cap Stockholm",
+				"linkName": "poolia-b"
+			},
+			{
+				"name": "NOVOTEK B",
+				"id": 5452,
+				"list": "Small Cap Stockholm",
+				"linkName": "novotek-b"
+			},
+			{
+				"name": "Proact IT Group",
+				"id": 5453,
+				"list": "Mid Cap Stockholm",
+				"linkName": "proact-it-group"
+			},
+			{
+				"name": "Duroc B",
+				"id": 5454,
+				"list": "Small Cap Stockholm",
+				"linkName": "duroc-b"
+			},
+			{
+				"name": "Tieto Oyj",
+				"id": 5455,
+				"list": "Large Cap Stockholm",
+				"linkName": "tieto-oyj"
+			},
+			{
+				"name": "Clas Ohlson B",
+				"id": 5457,
+				"list": "Mid Cap Stockholm",
+				"linkName": "clas-ohlson-b"
+			},
+			{
+				"name": "Fast. Balder B",
+				"id": 5459,
+				"list": "Large Cap Stockholm",
+				"linkName": "fast--balder-b"
+			},
+			{
+				"name": "MultiQ International",
+				"id": 5464,
+				"list": "Small Cap Stockholm",
+				"linkName": "multiq-international"
+			},
+			{
+				"name": "Axfood",
+				"id": 5465,
+				"list": "Large Cap Stockholm",
+				"linkName": "axfood"
+			},
+			{
+				"name": "Mycronic",
+				"id": 5466,
+				"list": "Mid Cap Stockholm",
+				"linkName": "mycronic"
+			},
+			{
+				"name": "Fingerprint Cards B",
+				"id": 5468,
+				"list": "Mid Cap Stockholm",
+				"linkName": "fingerprint-cards-b"
+			},
+			{
+				"name": "Sandvik",
+				"id": 5471,
+				"list": "Large Cap Stockholm",
+				"linkName": "sandvik"
+			},
+			{
+				"name": "Traction B",
+				"id": 5472,
+				"list": "Mid Cap Stockholm",
+				"linkName": "traction-b"
+			},
+			{
+				"name": "Mekonomen",
+				"id": 5474,
+				"list": "Mid Cap Stockholm",
+				"linkName": "mekonomen"
+			},
+			{
+				"name": "Feelgood Svenska",
+				"id": 5477,
+				"list": "Small Cap Stockholm",
+				"linkName": "feelgood-svenska"
+			},
+			{
+				"name": "Beijer Electronics Group",
+				"id": 5478,
+				"list": "Small Cap Stockholm",
+				"linkName": "beijer-electronics-group"
+			},
+			{
+				"name": "Telia Company",
+				"id": 5479,
+				"list": "Large Cap Stockholm",
+				"linkName": "telia-company"
+			},
+			{
+				"name": "Anoto Group",
+				"id": 5480,
+				"list": "Small Cap Stockholm",
+				"linkName": "anoto-group"
+			},
+			{
+				"name": "Strax",
+				"id": 5481,
+				"list": "Small Cap Stockholm",
+				"linkName": "strax"
+			},
+			{
+				"name": "Betsson B",
+				"id": 5482,
+				"list": "Large Cap Stockholm",
+				"linkName": "betsson-b"
+			},
+			{
+				"name": "Biotage",
+				"id": 5484,
+				"list": "Mid Cap Stockholm",
+				"linkName": "biotage"
+			},
+			{
+				"name": "Precise Biometrics",
+				"id": 5490,
+				"list": "Small Cap Stockholm",
+				"linkName": "precise-biometrics"
+			},
+			{
+				"name": "Eniro",
+				"id": 5491,
+				"list": "Small Cap Stockholm",
+				"linkName": "eniro"
+			},
+			{
+				"name": "Sensys Gatso Group",
+				"id": 5497,
+				"list": "Small Cap Stockholm",
+				"linkName": "sensys-gatso-group"
+			},
+			{
+				"name": "Studsvik",
+				"id": 5500,
+				"list": "Small Cap Stockholm",
+				"linkName": "studsvik"
+			},
+			{
+				"name": "JM",
+				"id": 5501,
+				"list": "Large Cap Stockholm",
+				"linkName": "jm"
+			},
+			{
+				"name": "BTS Group B",
+				"id": 5503,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bts-group-b"
+			},
+			{
+				"name": "BioInvent International",
+				"id": 5505,
+				"list": "Small Cap Stockholm",
+				"linkName": "bioinvent-international"
+			},
+			{
+				"name": "RNB RETAIL AND BRANDS",
+				"id": 5507,
+				"list": "Small Cap Stockholm",
+				"linkName": "rnb-retail-and-brands"
+			},
+			{
+				"name": "Vitrolife",
+				"id": 5508,
+				"list": "Large Cap Stockholm",
+				"linkName": "vitrolife"
+			},
+			{
+				"name": "Vitec Software Group B",
+				"id": 5526,
+				"list": "Mid Cap Stockholm",
+				"linkName": "vitec-software-group-b"
+			},
+			{
+				"name": "Starbreeze B",
+				"id": 5528,
+				"list": "Mid Cap Stockholm",
+				"linkName": "starbreeze-b"
+			},
+			{
+				"name": "AQ Group",
+				"id": 5534,
+				"list": "Mid Cap Stockholm",
+				"linkName": "aq-group"
+			},
+			{
+				"name": "SAS",
+				"id": 5535,
+				"list": "Mid Cap Stockholm",
+				"linkName": "sas"
+			},
+			{
+				"name": "Lagercrantz Group B",
+				"id": 5536,
+				"list": "Mid Cap Stockholm",
+				"linkName": "lagercrantz-group-b"
+			},
+			{
+				"name": "Addtech B",
+				"id": 5537,
+				"list": "Large Cap Stockholm",
+				"linkName": "addtech-b"
+			},
+			{
+				"name": "BillerudKorsnäs",
+				"id": 5556,
+				"list": "Large Cap Stockholm",
+				"linkName": "billerudkorsnas"
+			},
+			{
+				"name": "Boliden",
+				"id": 5564,
+				"list": "Large Cap Stockholm",
+				"linkName": "boliden"
+			},
+			{
+				"name": "Alfa Laval",
+				"id": 5580,
+				"list": "Large Cap Stockholm",
+				"linkName": "alfa-laval"
+			},
+			{
+				"name": "Intrum",
+				"id": 5583,
+				"list": "Large Cap Stockholm",
+				"linkName": "intrum"
+			},
+			{
+				"name": "Nobia",
+				"id": 5586,
+				"list": "Large Cap Stockholm",
+				"linkName": "nobia"
+			},
+			{
+				"name": "Klövern A",
+				"id": 5594,
+				"list": "Large Cap Stockholm",
+				"linkName": "klovern-a"
+			},
+			{
+				"name": "Lundin Petroleum",
+				"id": 5698,
+				"list": "Large Cap Stockholm",
+				"linkName": "lundin-petroleum"
+			},
+			{
+				"name": "Millicom Int. Cellular SDB",
+				"id": 6048,
+				"list": "Large Cap Stockholm",
+				"linkName": "millicom-int--cellular-sdb"
+			},
+			{
+				"name": "Tethys Oil",
+				"id": 6081,
+				"list": "Mid Cap Stockholm",
+				"linkName": "tethys-oil"
+			},
+			{
+				"name": "NOTE",
+				"id": 6331,
+				"list": "Small Cap Stockholm",
+				"linkName": "note"
+			},
+			{
+				"name": "Probi",
+				"id": 7009,
+				"list": "Mid Cap Stockholm",
+				"linkName": "probi"
+			},
+			{
+				"name": "Lundin Mining Corporation",
+				"id": 7010,
+				"list": "Large Cap Stockholm",
+				"linkName": "lundin-mining-corporation"
+			},
+			{
+				"name": "Wihlborgs Fastigheter",
+				"id": 18813,
+				"list": "Large Cap Stockholm",
+				"linkName": "wihlborgs-fastigheter"
+			},
+			{
+				"name": "AAK",
+				"id": 26268,
+				"list": "Large Cap Stockholm",
+				"linkName": "aak"
+			},
+			{
+				"name": "Indutrade",
+				"id": 26607,
+				"list": "Large Cap Stockholm",
+				"linkName": "indutrade"
+			},
+			{
+				"name": "TradeDoubler",
+				"id": 28527,
+				"list": "Small Cap Stockholm",
+				"linkName": "tradedoubler"
+			},
+			{
+				"name": "Orexo",
+				"id": 28567,
+				"list": "Mid Cap Stockholm",
+				"linkName": "orexo"
+			},
+			{
+				"name": "ICA Gruppen",
+				"id": 31607,
+				"list": "Large Cap Stockholm",
+				"linkName": "ica-gruppen"
+			},
+			{
+				"name": "Moment Group",
+				"id": 33127,
+				"list": "Small Cap Stockholm",
+				"linkName": "moment-group"
+			},
+			{
+				"name": "KappAhl",
+				"id": 36687,
+				"list": "Mid Cap Stockholm",
+				"linkName": "kappahl"
+			},
+			{
+				"name": "Opus Group",
+				"id": 40307,
+				"list": "Mid Cap Stockholm",
+				"linkName": "opus-group"
+			},
+			{
+				"name": "Catena",
+				"id": 41007,
+				"list": "Mid Cap Stockholm",
+				"linkName": "catena"
+			},
+			{
+				"name": "Diös Fastigheter",
+				"id": 43267,
+				"list": "Mid Cap Stockholm",
+				"linkName": "dios-fastigheter"
+			},
+			{
+				"name": "Invisio Communications",
+				"id": 43788,
+				"list": "Mid Cap Stockholm",
+				"linkName": "invisio-communications"
+			},
+			{
+				"name": "Husqvarna A",
+				"id": 45188,
+				"list": "Large Cap Stockholm",
+				"linkName": "husqvarna-a"
+			},
+			{
+				"name": "Husqvarna B",
+				"id": 45189,
+				"list": "Large Cap Stockholm",
+				"linkName": "husqvarna-b"
+			},
+			{
+				"name": "MedCap",
+				"id": 46487,
+				"list": "Small Cap Stockholm",
+				"linkName": "medcap"
+			},
+			{
+				"name": "Swedish Orphan Biovitrum",
+				"id": 51308,
+				"list": "Large Cap Stockholm",
+				"linkName": "swedish-orphan-biovitrum"
+			},
+			{
+				"name": "Kindred Group",
+				"id": 56267,
+				"list": "Large Cap Stockholm",
+				"linkName": "kindred-group"
+			},
+			{
+				"name": "BE Group",
+				"id": 59050,
+				"list": "Small Cap Stockholm",
+				"linkName": "be-group"
+			},
+			{
+				"name": "Lindab International",
+				"id": 59810,
+				"list": "Mid Cap Stockholm",
+				"linkName": "lindab-international"
+			},
+			{
+				"name": "Rejlers B",
+				"id": 62367,
+				"list": "Small Cap Stockholm",
+				"linkName": "rejlers-b"
+			},
+			{
+				"name": "Wise Group",
+				"id": 74787,
+				"list": "Small Cap Stockholm",
+				"linkName": "wise-group"
+			},
+			{
+				"name": "Björn Borg",
+				"id": 78529,
+				"list": "Small Cap Stockholm",
+				"linkName": "bjorn-borg"
+			},
+			{
+				"name": "NAXS",
+				"id": 79667,
+				"list": "Small Cap Stockholm",
+				"linkName": "naxs"
+			},
+			{
+				"name": "Nederman Holding",
+				"id": 80187,
+				"list": "Mid Cap Stockholm",
+				"linkName": "nederman-holding"
+			},
+			{
+				"name": "Agromino",
+				"id": 80347,
+				"list": "Small Cap Stockholm",
+				"linkName": "agromino"
+			},
+			{
+				"name": "CellaVision",
+				"id": 81967,
+				"list": "Mid Cap Stockholm",
+				"linkName": "cellavision"
+			},
+			{
+				"name": "Odd Molly International",
+				"id": 85228,
+				"list": "Small Cap Stockholm",
+				"linkName": "odd-molly-international"
+			},
+			{
+				"name": "Endomines",
+				"id": 85488,
+				"list": "Small Cap Stockholm",
+				"linkName": "endomines"
+			},
+			{
+				"name": "Vostok New Ventures",
+				"id": 87027,
+				"list": "Mid Cap Stockholm",
+				"linkName": "vostok-new-ventures"
+			},
+			{
+				"name": "C-RAD B",
+				"id": 88447,
+				"list": "Small Cap Stockholm",
+				"linkName": "c-rad-b"
+			},
+			{
+				"name": "Sagax pref",
+				"id": 96767,
+				"list": "Large Cap Stockholm",
+				"linkName": "sagax-pref"
+			},
+			{
+				"name": "Sagax A",
+				"id": 96768,
+				"list": "Large Cap Stockholm",
+				"linkName": "sagax-a"
+			},
+			{
+				"name": "Systemair",
+				"id": 97407,
+				"list": "Mid Cap Stockholm",
+				"linkName": "systemair"
+			},
+			{
+				"name": "Hansa Biopharma",
+				"id": 98087,
+				"list": "Mid Cap Stockholm",
+				"linkName": "hansa-biopharma"
+			},
+			{
+				"name": "HMS Networks",
+				"id": 98412,
+				"list": "Mid Cap Stockholm",
+				"linkName": "hms-networks"
+			},
+			{
+				"name": "Eastnine",
+				"id": 100687,
+				"list": "Mid Cap Stockholm",
+				"linkName": "eastnine"
+			},
+			{
+				"name": "Duni",
+				"id": 102327,
+				"list": "Mid Cap Stockholm",
+				"linkName": "duni"
+			},
+			{
+				"name": "eWork Group",
+				"id": 127201,
+				"list": "Small Cap Stockholm",
+				"linkName": "ework-group"
+			},
+			{
+				"name": "HEXPOL B",
+				"id": 130828,
+				"list": "Large Cap Stockholm",
+				"linkName": "hexpol-b"
+			},
+			{
+				"name": "Swedol B",
+				"id": 131348,
+				"list": "Mid Cap Stockholm",
+				"linkName": "swedol-b"
+			},
+			{
+				"name": "ITAB Shop Concept B",
+				"id": 134988,
+				"list": "Mid Cap Stockholm",
+				"linkName": "itab-shop-concept-b"
+			},
+			{
+				"name": "GHP Specialty Care",
+				"id": 144168,
+				"list": "Small Cap Stockholm",
+				"linkName": "ghp-specialty-care"
+			},
+			{
+				"name": "NeuroVive Pharmaceutical",
+				"id": 144172,
+				"list": "Small Cap Stockholm",
+				"linkName": "neurovive-pharmaceutical"
+			},
+			{
+				"name": "G5 Entertainment",
+				"id": 152492,
+				"list": "Mid Cap Stockholm",
+				"linkName": "g5-entertainment"
+			},
+			{
+				"name": "Loomis B",
+				"id": 154930,
+				"list": "Large Cap Stockholm",
+				"linkName": "loomis-b"
+			},
+			{
+				"name": "NetEnt B",
+				"id": 158928,
+				"list": "Large Cap Stockholm",
+				"linkName": "netent-b"
+			},
+			{
+				"name": "Catella A",
+				"id": 159628,
+				"list": "Mid Cap Stockholm",
+				"linkName": "catella-a"
+			},
+			{
+				"name": "Catella B",
+				"id": 159629,
+				"list": "Mid Cap Stockholm",
+				"linkName": "catella-b"
+			},
+			{
+				"name": "Cloetta B",
+				"id": 163148,
+				"list": "Mid Cap Stockholm",
+				"linkName": "cloetta-b"
+			},
+			{
+				"name": "Eolus Vind B",
+				"id": 178628,
+				"list": "Small Cap Stockholm",
+				"linkName": "eolus-vind-b"
+			},
+			{
+				"name": "Electra Gruppen",
+				"id": 178908,
+				"list": "Small Cap Stockholm",
+				"linkName": "electra-gruppen"
+			},
+			{
+				"name": "A3 Allmänna IT- och Telekom.",
+				"id": 180729,
+				"list": "Small Cap Stockholm",
+				"linkName": "a3-allmanna-it--och-telekom-"
+			},
+			{
+				"name": "Corem Property Group A",
+				"id": 181790,
+				"list": "Mid Cap Stockholm",
+				"linkName": "corem-property-group-a"
+			},
+			{
+				"name": "FormPipe Software",
+				"id": 210208,
+				"list": "Small Cap Stockholm",
+				"linkName": "formpipe-software"
+			},
+			{
+				"name": "Corem Property Group Pref",
+				"id": 216649,
+				"list": "Mid Cap Stockholm",
+				"linkName": "corem-property-group-pref"
+			},
+			{
+				"name": "Arise",
+				"id": 220127,
+				"list": "Small Cap Stockholm",
+				"linkName": "arise"
+			},
+			{
+				"name": "EnQuest PLC",
+				"id": 221108,
+				"list": "Mid Cap Stockholm",
+				"linkName": "enquest-plc"
+			},
+			{
+				"name": "Byggmax Group",
+				"id": 233288,
+				"list": "Mid Cap Stockholm",
+				"linkName": "byggmax-group"
+			},
+			{
+				"name": "MQ Holding",
+				"id": 236254,
+				"list": "Small Cap Stockholm",
+				"linkName": "mq-holding"
+			},
+			{
+				"name": "Oasmia Pharmaceutical",
+				"id": 237353,
+				"list": "Mid Cap Stockholm",
+				"linkName": "oasmia-pharmaceutical"
+			},
+			{
+				"name": "Africa Oil",
+				"id": 250993,
+				"list": "Mid Cap Stockholm",
+				"linkName": "africa-oil"
+			},
+			{
+				"name": "Episurf B",
+				"id": 255388,
+				"list": "Small Cap Stockholm",
+				"linkName": "episurf-b"
+			},
+			{
+				"name": "Etrion",
+				"id": 255391,
+				"list": "Small Cap Stockholm",
+				"linkName": "etrion"
+			},
+			{
+				"name": "Moberg Pharma",
+				"id": 262018,
+				"list": "Small Cap Stockholm",
+				"linkName": "moberg-pharma"
+			},
+			{
+				"name": "Qliro Group",
+				"id": 262988,
+				"list": "Mid Cap Stockholm",
+				"linkName": "qliro-group"
+			},
+			{
+				"name": "Stendörren Fastigheter B",
+				"id": 273449,
+				"list": "Mid Cap Stockholm",
+				"linkName": "stendorren-fastigheter-b"
+			},
+			{
+				"name": "ZetaDisplay",
+				"id": 283038,
+				"list": "Small Cap Stockholm",
+				"linkName": "zetadisplay"
+			},
+			{
+				"name": "Karolinska Development B",
+				"id": 285632,
+				"list": "Small Cap Stockholm",
+				"linkName": "karolinska-development-b"
+			},
+			{
+				"name": "Dedicare B",
+				"id": 286778,
+				"list": "Small Cap Stockholm",
+				"linkName": "dedicare-b"
+			},
+			{
+				"name": "Bulten",
+				"id": 290011,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bulten"
+			},
+			{
+				"name": "Concentric",
+				"id": 298354,
+				"list": "Mid Cap Stockholm",
+				"linkName": "concentric"
+			},
+			{
+				"name": "Boule Diagnostics",
+				"id": 299736,
+				"list": "Small Cap Stockholm",
+				"linkName": "boule-diagnostics"
+			},
+			{
+				"name": "Hexatronic Group",
+				"id": 299737,
+				"list": "Mid Cap Stockholm",
+				"linkName": "hexatronic-group"
+			},
+			{
+				"name": "Cavotec",
+				"id": 319435,
+				"list": "Mid Cap Stockholm",
+				"linkName": "cavotec"
+			},
+			{
+				"name": "Semafo",
+				"id": 319556,
+				"list": "Mid Cap Stockholm",
+				"linkName": "semafo"
+			},
+			{
+				"name": "Lucara Diamond Corp",
+				"id": 325050,
+				"list": "Mid Cap Stockholm",
+				"linkName": "lucara-diamond-corp"
+			},
+			{
+				"name": "Micro Systemation B",
+				"id": 330177,
+				"list": "Small Cap Stockholm",
+				"linkName": "micro-systemation-b"
+			},
+			{
+				"name": "Klövern pref",
+				"id": 334718,
+				"list": "Large Cap Stockholm",
+				"linkName": "klovern-pref"
+			},
+			{
+				"name": "Creades A",
+				"id": 338588,
+				"list": "Mid Cap Stockholm",
+				"linkName": "creades-a"
+			},
+			{
+				"name": "Eniro pref",
+				"id": 362016,
+				"list": "Small Cap Stockholm",
+				"linkName": "eniro-pref"
+			},
+			{
+				"name": "Xvivo Perfusion",
+				"id": 376275,
+				"list": "Mid Cap Stockholm",
+				"linkName": "xvivo-perfusion"
+			},
+			{
+				"name": "Sportamore",
+				"id": 379415,
+				"list": "Small Cap Stockholm",
+				"linkName": "sportamore"
+			},
+			{
+				"name": "Arctic Paper",
+				"id": 388806,
+				"list": "Small Cap Stockholm",
+				"linkName": "arctic-paper"
+			},
+			{
+				"name": "Sagax B",
+				"id": 405815,
+				"list": "Large Cap Stockholm",
+				"linkName": "sagax-b"
+			},
+			{
+				"name": "Immunicum",
+				"id": 409455,
+				"list": "Small Cap Stockholm",
+				"linkName": "immunicum"
+			},
+			{
+				"name": "Fast Partner Pref",
+				"id": 420018,
+				"list": "Mid Cap Stockholm",
+				"linkName": "fast-partner-pref"
+			},
+			{
+				"name": "Platzer Fastigheter Holding B",
+				"id": 445784,
+				"list": "Mid Cap Stockholm",
+				"linkName": "platzer-fastigheter-holding-b"
+			},
+			{
+				"name": "Oscar Properties Holding",
+				"id": 460955,
+				"list": "Mid Cap Stockholm",
+				"linkName": "oscar-properties-holding"
+			},
+			{
+				"name": "Bufab",
+				"id": 462932,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bufab"
+			},
+			{
+				"name": "Hemfosa Fastigheter",
+				"id": 470196,
+				"list": "Large Cap Stockholm",
+				"linkName": "hemfosa-fastigheter"
+			},
+			{
+				"name": "Recipharm B",
+				"id": 472000,
+				"list": "Mid Cap Stockholm",
+				"linkName": "recipharm-b"
+			},
+			{
+				"name": "Hembla B",
+				"id": 472495,
+				"list": "Mid Cap Stockholm",
+				"linkName": "hembla-b"
+			},
+			{
+				"name": "Saniona",
+				"id": 475457,
+				"list": "Small Cap Stockholm",
+				"linkName": "saniona"
+			},
+			{
+				"name": "Besqab",
+				"id": 483939,
+				"list": "Mid Cap Stockholm",
+				"linkName": "besqab"
+			},
+			{
+				"name": "Josemaria Resources",
+				"id": 488230,
+				"list": "Mid Cap Stockholm",
+				"linkName": "josemaria-resources"
+			},
+			{
+				"name": "Bactiguard Holding B",
+				"id": 488231,
+				"list": "Small Cap Stockholm",
+				"linkName": "bactiguard-holding-b"
+			},
+			{
+				"name": "Hanza Holding",
+				"id": 488235,
+				"list": "Small Cap Stockholm",
+				"linkName": "hanza-holding"
+			},
+			{
+				"name": "Fenix Outdoor International B",
+				"id": 488741,
+				"list": "Large Cap Stockholm",
+				"linkName": "fenix-outdoor-international-b"
+			},
+			{
+				"name": "Scandi Standard",
+				"id": 488892,
+				"list": "Mid Cap Stockholm",
+				"linkName": "scandi-standard"
+			},
+			{
+				"name": "Inwido",
+				"id": 507540,
+				"list": "Mid Cap Stockholm",
+				"linkName": "inwido"
+			},
+			{
+				"name": "Gränges",
+				"id": 510194,
+				"list": "Mid Cap Stockholm",
+				"linkName": "granges"
+			},
+			{
+				"name": "Christian Berner Tech Trade B",
+				"id": 513577,
+				"list": "Small Cap Stockholm",
+				"linkName": "christian-berner-tech-trade-b"
+			},
+			{
+				"name": "Samhällsbyggnadsbo. i Norden B",
+				"id": 517316,
+				"list": "Large Cap Stockholm",
+				"linkName": "samhallsbyggnadsbo--i-norden-b"
+			},
+			{
+				"name": "Lifco B",
+				"id": 520898,
+				"list": "Large Cap Stockholm",
+				"linkName": "lifco-b"
+			},
+			{
+				"name": "Thule Group",
+				"id": 521491,
+				"list": "Large Cap Stockholm",
+				"linkName": "thule-group"
+			},
+			{
+				"name": "NP3 Fastigheter",
+				"id": 522855,
+				"list": "Mid Cap Stockholm",
+				"linkName": "np3-fastigheter"
+			},
+			{
+				"name": "Ahlstrom-Munksjö Oyj",
+				"id": 523282,
+				"list": "Large Cap Stockholm",
+				"linkName": "ahlstrom-munksjo-oyj"
+			},
+			{
+				"name": "Klövern B",
+				"id": 523632,
+				"list": "Large Cap Stockholm",
+				"linkName": "klovern-b"
+			},
+			{
+				"name": "Hemfosa Fastigheter Pref",
+				"id": 524117,
+				"list": "Large Cap Stockholm",
+				"linkName": "hemfosa-fastigheter-pref"
+			},
+			{
+				"name": "Lundin Gold",
+				"id": 528238,
+				"list": "Mid Cap Stockholm",
+				"linkName": "lundin-gold"
+			},
+			{
+				"name": "Eltel",
+				"id": 537416,
+				"list": "Mid Cap Stockholm",
+				"linkName": "eltel"
+			},
+			{
+				"name": "Dustin Group",
+				"id": 538819,
+				"list": "Mid Cap Stockholm",
+				"linkName": "dustin-group"
+			},
+			{
+				"name": "Cantargia",
+				"id": 549022,
+				"list": "Small Cap Stockholm",
+				"linkName": "cantargia"
+			},
+			{
+				"name": "Evolution Gaming Group",
+				"id": 549768,
+				"list": "Large Cap Stockholm",
+				"linkName": "evolution-gaming-group"
+			},
+			{
+				"name": "Hoist Finance",
+				"id": 550518,
+				"list": "Mid Cap Stockholm",
+				"linkName": "hoist-finance"
+			},
+			{
+				"name": "Troax Group",
+				"id": 551073,
+				"list": "Mid Cap Stockholm",
+				"linkName": "troax-group"
+			},
+			{
+				"name": "K2A Knaust & Andersson Pref",
+				"id": 552344,
+				"list": "Mid Cap Stockholm",
+				"linkName": "k2a-knaust---andersson-pref"
+			},
+			{
+				"name": "Tobii",
+				"id": 556803,
+				"list": "Mid Cap Stockholm",
+				"linkName": "tobii"
+			},
+			{
+				"name": "Oscar Properties Holding PREF",
+				"id": 563251,
+				"list": "Mid Cap Stockholm",
+				"linkName": "oscar-properties-holding-pref"
+			},
+			{
+				"name": "Volati Pref",
+				"id": 568098,
+				"list": "Mid Cap Stockholm",
+				"linkName": "volati-pref"
+			},
+			{
+				"name": "Magnolia Bostad",
+				"id": 568304,
+				"list": "Mid Cap Stockholm",
+				"linkName": "magnolia-bostad"
+			},
+			{
+				"name": "Collector",
+				"id": 568621,
+				"list": "Mid Cap Stockholm",
+				"linkName": "collector"
+			},
+			{
+				"name": "Starbreeze A",
+				"id": 569319,
+				"list": "Mid Cap Stockholm",
+				"linkName": "starbreeze-a"
+			},
+			{
+				"name": "Nilörngruppen B",
+				"id": 569438,
+				"list": "Small Cap Stockholm",
+				"linkName": "nilorngruppen-b"
+			},
+			{
+				"name": "Coor Service Management Hold.",
+				"id": 572375,
+				"list": "Mid Cap Stockholm",
+				"linkName": "coor-service-management-hold-"
+			},
+			{
+				"name": "Alimak Group",
+				"id": 572678,
+				"list": "Mid Cap Stockholm",
+				"linkName": "alimak-group"
+			},
+			{
+				"name": "Nobina",
+				"id": 572897,
+				"list": "Mid Cap Stockholm",
+				"linkName": "nobina"
+			},
+			{
+				"name": "Pandox B",
+				"id": 572898,
+				"list": "Large Cap Stockholm",
+				"linkName": "pandox-b"
+			},
+			{
+				"name": "Sinch",
+				"id": 599956,
+				"list": "Mid Cap Stockholm",
+				"linkName": "sinch"
+			},
+			{
+				"name": "Bravida Holding",
+				"id": 602637,
+				"list": "Large Cap Stockholm",
+				"linkName": "bravida-holding"
+			},
+			{
+				"name": "Dometic Group",
+				"id": 611718,
+				"list": "Large Cap Stockholm",
+				"linkName": "dometic-group"
+			},
+			{
+				"name": "Attendo",
+				"id": 612517,
+				"list": "Large Cap Stockholm",
+				"linkName": "attendo"
+			},
+			{
+				"name": "Immunovia",
+				"id": 612775,
+				"list": "Mid Cap Stockholm",
+				"linkName": "immunovia"
+			},
+			{
+				"name": "Scandic Hotels Group",
+				"id": 613140,
+				"list": "Mid Cap Stockholm",
+				"linkName": "scandic-hotels-group"
+			},
+			{
+				"name": "Camurus",
+				"id": 613452,
+				"list": "Mid Cap Stockholm",
+				"linkName": "camurus"
+			},
+			{
+				"name": "Vicore Pharma Holding",
+				"id": 614837,
+				"list": "Small Cap Stockholm",
+				"linkName": "vicore-pharma-holding"
+			},
+			{
+				"name": "Xbrane Biopharma",
+				"id": 630588,
+				"list": "Small Cap Stockholm",
+				"linkName": "xbrane-biopharma"
+			},
+			{
+				"name": "Catena Media",
+				"id": 632719,
+				"list": "Mid Cap Stockholm",
+				"linkName": "catena-media"
+			},
+			{
+				"name": "Garo",
+				"id": 643540,
+				"list": "Mid Cap Stockholm",
+				"linkName": "garo"
+			},
+			{
+				"name": "AddLife B",
+				"id": 643541,
+				"list": "Mid Cap Stockholm",
+				"linkName": "addlife-b"
+			},
+			{
+				"name": "LeoVegas",
+				"id": 643616,
+				"list": "Mid Cap Stockholm",
+				"linkName": "leovegas"
+			},
+			{
+				"name": "Humana",
+				"id": 644519,
+				"list": "Mid Cap Stockholm",
+				"linkName": "humana"
+			},
+			{
+				"name": "Infant Bacterial TherapeuticsB",
+				"id": 645576,
+				"list": "Mid Cap Stockholm",
+				"linkName": "infant-bacterial-therapeuticsb"
+			},
+			{
+				"name": "Resurs Holding",
+				"id": 653461,
+				"list": "Large Cap Stockholm",
+				"linkName": "resurs-holding"
+			},
+			{
+				"name": "Oscar Properties Holding PREFB",
+				"id": 656979,
+				"list": "Mid Cap Stockholm",
+				"linkName": "oscar-properties-holding-prefb"
+			},
+			{
+				"name": "NGS Group",
+				"id": 659798,
+				"list": "Small Cap Stockholm",
+				"linkName": "ngs-group"
+			},
+			{
+				"name": "Bonava B",
+				"id": 663399,
+				"list": "Large Cap Stockholm",
+				"linkName": "bonava-b"
+			},
+			{
+				"name": "Bonava A",
+				"id": 663401,
+				"list": "Large Cap Stockholm",
+				"linkName": "bonava-a"
+			},
+			{
+				"name": "Nordic Waterproofing Holding",
+				"id": 663500,
+				"list": "Mid Cap Stockholm",
+				"linkName": "nordic-waterproofing-holding"
+			},
+			{
+				"name": "B3 Consulting Group",
+				"id": 665185,
+				"list": "Small Cap Stockholm",
+				"linkName": "b3-consulting-group"
+			},
+			{
+				"name": "TF Bank",
+				"id": 666685,
+				"list": "Mid Cap Stockholm",
+				"linkName": "tf-bank"
+			},
+			{
+				"name": "AcadeMedia",
+				"id": 667476,
+				"list": "Mid Cap Stockholm",
+				"linkName": "academedia"
+			},
+			{
+				"name": "Int. Engelska Skolan",
+				"id": 694164,
+				"list": "Mid Cap Stockholm",
+				"linkName": "int--engelska-skolan"
+			},
+			{
+				"name": "Brinova Fastigheter B",
+				"id": 694166,
+				"list": "Small Cap Stockholm",
+				"linkName": "brinova-fastigheter-b"
+			},
+			{
+				"name": "Sagax D",
+				"id": 703653,
+				"list": "Large Cap Stockholm",
+				"linkName": "sagax-d"
+			},
+			{
+				"name": "Alligator Bioscience",
+				"id": 707779,
+				"list": "Mid Cap Stockholm",
+				"linkName": "alligator-bioscience"
+			},
+			{
+				"name": "Serneke Group B",
+				"id": 707959,
+				"list": "Mid Cap Stockholm",
+				"linkName": "serneke-group-b"
+			},
+			{
+				"name": "Volati",
+				"id": 709195,
+				"list": "Mid Cap Stockholm",
+				"linkName": "volati"
+			},
+			{
+				"name": "Edgeware",
+				"id": 711276,
+				"list": "Small Cap Stockholm",
+				"linkName": "edgeware"
+			},
+			{
+				"name": "Oncopeptides",
+				"id": 730897,
+				"list": "Mid Cap Stockholm",
+				"linkName": "oncopeptides"
+			},
+			{
+				"name": "Mips",
+				"id": 740416,
+				"list": "Mid Cap Stockholm",
+				"linkName": "mips"
+			},
+			{
+				"name": "Ambea",
+				"id": 741458,
+				"list": "Mid Cap Stockholm",
+				"linkName": "ambea"
+			},
+			{
+				"name": "SSM Holding",
+				"id": 742234,
+				"list": "Small Cap Stockholm",
+				"linkName": "ssm-holding"
+			},
+			{
+				"name": "Actic Group",
+				"id": 742358,
+				"list": "Small Cap Stockholm",
+				"linkName": "actic-group"
+			},
+			{
+				"name": "FM Mattsson Mora Group B",
+				"id": 743016,
+				"list": "Small Cap Stockholm",
+				"linkName": "fm-mattsson-mora-group-b"
+			},
+			{
+				"name": "International Petroleum Corp.",
+				"id": 746877,
+				"list": "Mid Cap Stockholm",
+				"linkName": "international-petroleum-corp-"
+			},
+			{
+				"name": "Instalco",
+				"id": 752039,
+				"list": "Mid Cap Stockholm",
+				"linkName": "instalco"
+			},
+			{
+				"name": "Munters Group",
+				"id": 755803,
+				"list": "Large Cap Stockholm",
+				"linkName": "munters-group"
+			},
+			{
+				"name": "Medicover B",
+				"id": 756355,
+				"list": "Mid Cap Stockholm",
+				"linkName": "medicover-b"
+			},
+			{
+				"name": "Boozt",
+				"id": 757760,
+				"list": "Mid Cap Stockholm",
+				"linkName": "boozt"
+			},
+			{
+				"name": "Essity A",
+				"id": 764223,
+				"list": "Large Cap Stockholm",
+				"linkName": "essity-a"
+			},
+			{
+				"name": "Essity B",
+				"id": 764241,
+				"list": "Large Cap Stockholm",
+				"linkName": "essity-b"
+			},
+			{
+				"name": "Momentum Group B",
+				"id": 765297,
+				"list": "Mid Cap Stockholm",
+				"linkName": "momentum-group-b"
+			},
+			{
+				"name": "BONESUPPORT HOLDING",
+				"id": 765299,
+				"list": "Small Cap Stockholm",
+				"linkName": "bonesupport-holding"
+			},
+			{
+				"name": "Balco Group",
+				"id": 790858,
+				"list": "Small Cap Stockholm",
+				"linkName": "balco-group"
+			},
+			{
+				"name": "Handicare Group",
+				"id": 791758,
+				"list": "Mid Cap Stockholm",
+				"linkName": "handicare-group"
+			},
+			{
+				"name": "BioArctic B",
+				"id": 791946,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bioarctic-b"
+			},
+			{
+				"name": "Ferronordic",
+				"id": 795795,
+				"list": "Mid Cap Stockholm",
+				"linkName": "ferronordic"
+			},
+			{
+				"name": "Arjo B",
+				"id": 810953,
+				"list": "Large Cap Stockholm",
+				"linkName": "arjo-b"
+			},
+			{
+				"name": "Corem Property Group B",
+				"id": 811076,
+				"list": "Mid Cap Stockholm",
+				"linkName": "corem-property-group-b"
+			},
+			{
+				"name": "NP3 Fastigheter Pref",
+				"id": 832753,
+				"list": "Mid Cap Stockholm",
+				"linkName": "np3-fastigheter-pref"
+			},
+			{
+				"name": "Green Landscaping Group",
+				"id": 837354,
+				"list": "Small Cap Stockholm",
+				"linkName": "green-landscaping-group"
+			},
+			{
+				"name": "Bygghemma Group First",
+				"id": 838544,
+				"list": "Mid Cap Stockholm",
+				"linkName": "bygghemma-group-first"
+			},
+			{
+				"name": "Railcare Group",
+				"id": 839314,
+				"list": "Small Cap Stockholm",
+				"linkName": "railcare-group"
+			},
+			{
+				"name": "NCAB Group",
+				"id": 856458,
+				"list": "Small Cap Stockholm",
+				"linkName": "ncab-group"
+			},
+			{
+				"name": "Better Collective",
+				"id": 856638,
+				"list": "Mid Cap Stockholm",
+				"linkName": "better-collective"
+			},
+			{
+				"name": "Arion Banki SDB",
+				"id": 861076,
+				"list": "Large Cap Stockholm",
+				"linkName": "arion-banki-sdb"
+			},
+			{
+				"name": "Epiroc A",
+				"id": 861430,
+				"list": "Large Cap Stockholm",
+				"linkName": "epiroc-a"
+			},
+			{
+				"name": "Epiroc B",
+				"id": 861431,
+				"list": "Large Cap Stockholm",
+				"linkName": "epiroc-b"
+			},
+			{
+				"name": "Projektengagemang Sweden B",
+				"id": 861575,
+				"list": "Small Cap Stockholm",
+				"linkName": "projektengagemang-sweden-b"
+			},
+			{
+				"name": "Calliditas Therapeutics",
+				"id": 863757,
+				"list": "Mid Cap Stockholm",
+				"linkName": "calliditas-therapeutics"
+			},
+			{
+				"name": "Veoneer SDB",
+				"id": 864354,
+				"list": "Large Cap Stockholm",
+				"linkName": "veoneer-sdb"
+			},
+			{
+				"name": "Nyfosa",
+				"id": 907825,
+				"list": "Large Cap Stockholm",
+				"linkName": "nyfosa"
+			},
+			{
+				"name": "Lime Technologies",
+				"id": 910303,
+				"list": "Small Cap Stockholm",
+				"linkName": "lime-technologies"
+			},
+			{
+				"name": "Q-Linea",
+				"id": 910455,
+				"list": "Mid Cap Stockholm",
+				"linkName": "q-linea"
+			},
+			{
+				"name": "Samhällsbyggnadsbo. i Norden D",
+				"id": 913957,
+				"list": "Large Cap Stockholm",
+				"linkName": "samhallsbyggnadsbo--i-norden-d"
+			},
+			{
+				"name": "Ascelia Pharma",
+				"id": 941919,
+				"list": "Small Cap Stockholm",
+				"linkName": "ascelia-pharma"
+			},
+			{
+				"name": "Gaming Innovation Group",
+				"id": 944557,
+				"list": "Mid Cap Stockholm",
+				"linkName": "gaming-innovation-group"
+			},
+			{
+				"name": "Nordic Entertainment Group B",
+				"id": 945460,
+				"list": "Large Cap Stockholm",
+				"linkName": "nordic-entertainment-group-b"
+			},
+			{
+				"name": "Nordic Entertainment Group A",
+				"id": 945461,
+				"list": "Large Cap Stockholm",
+				"linkName": "nordic-entertainment-group-a"
+			},
+			{
+				"name": "Karnov Group",
+				"id": 949326,
+				"list": "Mid Cap Stockholm",
+				"linkName": "karnov-group"
+			},
+			{
+				"name": "John Mattson Fastighetsföret.",
+				"id": 965358,
+				"list": "Mid Cap Stockholm",
+				"linkName": "john-mattson-fastighetsforet-"
+			},
+			{
+				"name": "K2A Knaust & Andersson B",
+				"id": 971402,
+				"list": "Mid Cap Stockholm",
+				"linkName": "k2a-knaust---andersson-b"
+			},
+			{
+				"name": "TRATON",
+				"id": 972553,
+				"list": "Large Cap Stockholm",
+				"linkName": "traton"
+			},
+			{
+				"name": "Adapteo",
+				"id": 973315,
+				"list": "Mid Cap Stockholm",
+				"linkName": "adapteo"
+			},
+			{
+				"name": "EQT",
+				"id": 1001617,
+				"list": "Large Cap Stockholm",
+				"linkName": "eqt"
+			}
+		]
+	}
+}
