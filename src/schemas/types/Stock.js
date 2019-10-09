@@ -1,29 +1,13 @@
-exports.createStock = ({
+exports.createSingleStock = ({
 	Firestore = require('@google-cloud/firestore'),
 	secrets = require('../../../secrets.json'),
 	graphql = require('graphql'),
-	getFields = require('../helpers/fieldsHelper').getFields
+	getFields = require('../helpers/fieldsHelper').getFields,
+	StockType
 }) => {
-	const { GraphQLInt, GraphQLString, GraphQLObjectType } = graphql
+	const { GraphQLInt, GraphQLString } = graphql
 
 	const db = new Firestore(secrets)
-
-	const StockType = new GraphQLObjectType({
-		name: 'Stockinternal',
-		description: 'Basic stock object - find where this is displayed???',
-
-		fields: () => ({
-			name: {
-				type: GraphQLString,
-				description: 'Pretty name',
-				resolve: data => data.name
-			},
-			id: {
-				type: GraphQLInt,
-				resolve: data => data.id
-			}
-		})
-	})
 
 	return {
 		type: StockType,
@@ -41,6 +25,32 @@ exports.createStock = ({
 				.get()
 
 			const output = matchingDocs.docs[0].data()
+			return output
+		}
+	}
+}
+
+exports.createStockList = ({
+	Firestore = require('@google-cloud/firestore'),
+	secrets = require('../../../secrets.json'),
+	graphql = require('graphql'),
+	getFields = require('../helpers/fieldsHelper').getFields,
+	StockType
+}) => {
+	const { GraphQLInt, GraphQLString, GraphQLList } = graphql
+	const db = new Firestore(secrets)
+
+	return {
+		type: new GraphQLList(StockType),
+		args: {
+			id: { type: GraphQLInt },
+			name: { type: GraphQLString }
+		},
+		description: 'Root of stock object.',
+		resolve: async (root, args) => {
+			const output = []
+			const allDocs = await db.collection('stocks').get()
+			allDocs.forEach(doc => output.push(doc.data()))
 			return output
 		}
 	}
