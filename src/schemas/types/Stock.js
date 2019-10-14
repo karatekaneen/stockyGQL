@@ -34,7 +34,8 @@ exports.createStockList = ({
 	Firestore = require('@google-cloud/firestore'),
 	secrets = require('../../../secrets.json'),
 	graphql = require('graphql'),
-	getFields = require('../helpers/fieldsHelper').getFields,
+	// getFields = require('../helpers/fieldsHelper').getFields,
+	getStockList = require('../resolvers/dbResolvers').createGetStockList(),
 	StockType
 }) => {
 	const { GraphQLInt, GraphQLString, GraphQLList } = graphql
@@ -44,43 +45,10 @@ exports.createStockList = ({
 		type: new GraphQLList(StockType),
 		args: {
 			id: { type: GraphQLInt },
-			name: { type: GraphQLString, description: 'Free text search of the "pretty" name' }
+			name: { type: GraphQLString, description: 'Free text search of the "pretty" name' },
+			list: { type: GraphQLString, description: 'Free text search of the list title' }
 		},
-		description: 'Root of stock object.',
-		resolve: async (root, args, context, info) => {
-			const output = []
-			const fields = getFields(info)
-
-			if (args.name) {
-				const summaries = (await db
-					.collection('stock-helpers')
-					.doc('stockSummaries')
-					.get()).data()
-				const idsToGet = summaries.stocks
-					.filter(stock => stock.name.toLowerCase().search(args.name.toLowerCase()) > -1)
-					.map(stock => stock.id.toString())
-
-				if (idsToGet.length > 0) {
-					const docs = await Promise.all(
-						idsToGet.map(id =>
-							db
-								.collection('stocks')
-								.doc(id)
-								.get()
-						)
-					)
-					return docs.map(doc => doc.data())
-				} else return []
-			} else {
-				const allDocs = await db
-					.collection('stocks')
-					.where('id', '>', 0)
-					.select(...fields)
-					.get()
-
-				allDocs.forEach(doc => output.push(doc.data()))
-				return output
-			}
-		}
+		description: 'Get list of stocks.',
+		resolve: getStockList
 	}
 }
