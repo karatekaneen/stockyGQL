@@ -3,7 +3,7 @@ exports.createSingleStock = ({
 	getSingleStock = require('../resolvers/dbResolvers').createGetSingleStock(),
 	StockType
 }) => {
-	const { GraphQLInt, GraphQLNonNull } = graphql
+	const { GraphQLInt, GraphQLNonNull, GraphQLList } = graphql
 
 	return {
 		type: StockType,
@@ -25,7 +25,7 @@ exports.createStockList = ({
 	return {
 		type: new GraphQLList(StockType),
 		args: {
-			id: { type: GraphQLInt },
+			id: { type: new GraphQLList(GraphQLInt) },
 			name: { type: GraphQLString, description: 'Free text search of the "pretty" name' },
 			list: { type: GraphQLString, description: 'Free text search of the list title' }
 		},

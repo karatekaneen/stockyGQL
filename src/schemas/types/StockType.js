@@ -6,7 +6,7 @@ exports.createStockType = ({
 
 	const StockType = new GraphQLObjectType({
 		name: 'Stock',
-		description: 'Basic stock object - find where this is displayed???',
+		description: 'Basic stock object',
 
 		fields: () => ({
 			name: {
