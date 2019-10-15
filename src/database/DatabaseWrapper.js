@@ -32,20 +32,22 @@ module.exports = class DatabaseWrapper {
 		return output
 	}
 
-	async getByIds(idsToGet) {
-		const docs = await Promise.all(
+	async getByIds(idsToGet, fields) {
+		const snapshots = await Promise.all(
 			idsToGet.map(id =>
 				this.db
 					.collection('stocks')
-					.doc(id)
+					.where('id', '==', id)
+					.select(...fields)
 					.get()
 			)
 		)
-		return docs.map(doc => doc.data())
+
+		return snapshots.map(snapshot => snapshot.docs[0].data())
 	}
 
-	async getSingleById(id) {
-		const docArr = await this.getByIds([id])
+	async getSingleById(id, fields) {
+		const docArr = await this.getByIds([id], fields)
 		return docArr[0]
 	}
 }
