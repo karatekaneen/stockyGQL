@@ -1,4 +1,4 @@
-exports.createDataPoint = ({ graphql = require('graphql') }) => {
+exports.createDataPoint = ({ graphql = require('graphql') } = {}) => {
 	const { GraphQLInt, GraphQLString, GraphQLObjectType, GraphQLFloat } = graphql
 
 	const StockType = new GraphQLObjectType({

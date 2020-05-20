@@ -27,7 +27,8 @@ exports.createStockList = ({
 		args: {
 			id: { type: new GraphQLList(GraphQLInt) },
 			name: { type: GraphQLString, description: 'Free text search of the "pretty" name' },
-			list: { type: GraphQLString, description: 'Free text search of the list title' }
+			list: { type: GraphQLString, description: 'Free text search of the list title' },
+			type: { type: GraphQLString, description: 'List of types to include in search' }
 		},
 		description: 'Get list of stocks.',
 		resolve: getStockList

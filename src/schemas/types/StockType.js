@@ -1,8 +1,10 @@
 exports.createStockType = ({
 	graphql = require('graphql'),
-	DataPoint = require('./DataPoint').createDataPoint({})
+	DataPoint = require('./DataPoint').createDataPoint(),
+	DatabaseWrapper = require('../../database/DatabaseWrapper')
 }) => {
 	const { GraphQLInt, GraphQLString, GraphQLObjectType, GraphQLList } = graphql
+	const db = new DatabaseWrapper()
 
 	const StockType = new GraphQLObjectType({
 		name: 'Stock',
@@ -12,31 +14,35 @@ exports.createStockType = ({
 			name: {
 				type: GraphQLString,
 				description: 'Pretty name',
-				resolve: data => data.name
+				resolve: ({ name }) => name
 			},
+
 			id: {
 				type: GraphQLInt,
-				resolve: data => data.id
+				resolve: ({ id }) => id
 			},
-			lastPricePoint: {
-				type: GraphQLString,
-				resolve: data => new Date(data.lastPricePoint).toISOString(),
-				description:
-					'DateTime of the last entry to the priceseries. Its a javascript date object converted to a string.'
-			},
+
 			linkName: {
 				type: GraphQLString,
-				resolve: data => data.linkName,
+				resolve: ({ linkName }) => linkName,
 				description: 'URL-safe version of company name.'
 			},
+
+			type: {
+				type: GraphQLString,
+				resolve: ({ type }) => type,
+				description: 'Type of security'
+			},
+
 			list: {
 				type: GraphQLString,
-				resolve: data => data.list,
+				resolve: ({ list }) => list,
 				description: 'Name of the list that the stock belongs to such as "Large Cap Stockholm".'
 			},
+
 			priceData: {
 				type: new GraphQLList(DataPoint),
-				resolve: data => data.priceData
+				resolve: ({ id }) => db.getPriceData(id)
 			}
 		})
 	})
