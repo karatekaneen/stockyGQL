@@ -3,7 +3,7 @@ steps:
     entrypoint: npm
     id: Install Dependencies
     args:
-      - install-ci-test
+      - ci
   - name: "node:current-slim"
     id: Compile Typescript
     entrypoint: npm
