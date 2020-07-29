@@ -3,13 +3,13 @@ class DatabaseWrapper {
 	/**
 	 * Creates an instance of the database wrapper
 	 * @param {Class} Firestore The Firestore library
-	 * @param {Object} secrets Credentials to Firestore
 	 */
 	constructor(
-		Firestore = require('@google-cloud/firestore'),
-		secrets = require('../../secrets.json')
+		Firestore = require('@google-cloud/firestore')
+		// secrets = require('../../secrets.json')
 	) {
-		this.db = new Firestore(secrets)
+		// this.db = new Firestore(secrets)
+		this.db = new Firestore()
 	}
 
 	async getPriceData(id) {
