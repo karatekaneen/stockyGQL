@@ -5,6 +5,8 @@ const schema = createSchema({})
 
 const root = { hello: () => 'Hello world!' }
 
+const PORT = process.env.port || 8080
+
 const app = express()
 app.use(
 	'/graphql',
@@ -14,4 +16,4 @@ app.use(
 		graphiql: true
 	})
 )
-app.listen(4000, () => console.log('Now browse to localhost:4000/graphql'))
+app.listen(PORT, () => console.log(`Serving on host:${PORT}/graphql`))
